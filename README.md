@@ -2,28 +2,28 @@
 
 This EDA project successfully identified key pricing factors for flights and revealed strong patterns in seasonal, airline, route-based variations using Python, pandas, matplot and seaborn.
 
-Questions Answered:
+> Questions Answered:
 
-Which are the top 5 most frequent routes ?
+* Which are the top 5 most frequent routes ?
 
-Which Airline has the most number of journeys ?
+* Which Airline has the most number of journeys ?
 
-How does the number of stops affect flight price ?
+* How does the number of stops affect flight price ?
 
-Which month has the highest and lowest average ticket price for non-stop flights ?
+* Which month has the highest and lowest average ticket price for non-stop flights ?
 
-Dataset Used:
+▫️Dataset Used:
 
-Source: Kaggle 
+▫️Source: Kaggle 
 
-Tools & Libraries:
+> Tools & Libraries:
 
-Python
+🔘Python
 
-pandas
+🔘pandas
 
-matplotlib
+🔘matplotlib
 
-seaborn
+🔘seaborn
 
-Jupyter Notebook
+🔘Jupyter Notebook
