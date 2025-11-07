@@ -1,4 +1,5 @@
-✈️ Indian Airlines Flights Records 2019 EDA
+✈️ Indian Airlines Flights Records 2019 EDA.
+
 This EDA project successfully identified key pricing factors for flights and revealed strong patterns in seasonal, airline, route-based variations using Python, pandas, matplot and seaborn.
 
 Questions Answered:
